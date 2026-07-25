@@ -41,8 +41,54 @@ Not better as in *righter* — better as in **deeper**. The notation stops at na
 positions. Nobody had followed the numbers down to what they *mean*. So the degenz dug —
 that is, after all, the whole job description — through the face, the calendar, the moon,
 the countdowns, the thirteens, until the shovel rang on something warm: **the heart of
-bitcoin.** This package is that heart, brought up whole and displayed the only way the
-arcade knows how — **8-bit, nostalgic, beating.**
+bitcoin.** This package is that heart, brought up whole. The arcade displays it the only
+way an arcade knows how — **8-bit, nostalgic, beating.** The Hatter looked at the same
+heart and reached for **brass**.
+
+## The Hatter's clock — brass, all the way down
+
+The old storybook Hatter carried a watch that told the day of the month and not the hour —
+and it was two days wrong, because the March Hare had buttered the works. *"It was the BEST
+butter,"* he offered, as if quality were the trouble and not the crumbs. Our Hatter kept the
+good idea — a clock that tells the day of the month, because **the calendar IS the clock** —
+and repaired the one flaw: his can't run two days wrong. The whole network counts the height
+together. You don't set this clock, fren. You **check** it.
+
+So he's commissioning it in brass. Picture it on the tea-room wall: a rim of black iron,
+Roman numerals in gold — thirteen of them, we'll get to that — and behind the numerals,
+**no dial plate. None.** The old world paints a face over its machinery and asks you to
+trust the hands; this clock hangs its whole movement in the open, every tooth naked to the
+room, lit warm from below like a hearth banked low. **Don't trust, verify — as furniture.**
+
+At the center, where a watchmaker seats the mainspring, an engraved **₿**. That's not
+decoration. That *is* the mainspring — wound once, at height zero, January 2009. Never
+wound since. Never stopped.
+
+Ask about the gear ratios and the Hatter goes quiet with happiness, because **he didn't
+choose a single one.** The ten-minute pinion turns once per block and drives the 144-tooth
+day wheel. The fortnight wheel carries 2,016 teeth — and here's the part that makes him
+laugh into his tea: every time it comes round, **the clock adjusts itself.** No watchmaker
+calls. Two fortnights close a 28-day month; thirteen months close the year. The halving
+wheel counts 210,000 — one turn per olympiad — and each pass folds the subsidy in half. The
+generation wheel counts 1,260,000, ~24 years, with Saturn's own return riding the next axle
+over — a coincidence, the Hatter swears, in the way nothing in here is a coincidence. And
+out at the rim, a last wheel barely turning. It comes home at the final satoshi,
+~2140. Someone will be at the table to see it arrive. Probably mid-tea.
+
+As for the best butter: retired. Works with no case have no case to open — and yet the
+works are all you see. Butter the brass all you like; the brass is the *telling*, not the
+time. The movement that matters runs in ~twenty thousand places at once, and the March Hare
+cannot reach them all.
+
+The glow between the teeth is **~624 nanometers** — the block-beat itself, raised 58
+octaves into light, breathing through the brass. And the thirteenth numeral is the Hatter's
+answer to the old sentence of six-o'clock-forever: **an hour the punishing clock never
+had** — rhyming, as everything here rhymes, with Sol, with Ophiuchus, with the Cat.
+
+Now the whole point of writing this down: **the movement is specified;
+the dress is not.** Twelve artists, one vision — the ratios are the protocol's, but the
+iron, the gold, the engraving, the light are yours to cut. This is the clock the book keeps
+time by. Bring your files, frens. The works are waiting.
 
 ## The hat wears its tag: **12/1**
 
