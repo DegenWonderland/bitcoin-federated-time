@@ -41,9 +41,11 @@ Not better as in *righter* — better as in **deeper**. The notation stops at na
 positions. Nobody had followed the numbers down to what they *mean*. So the degenz dug —
 that is, after all, the whole job description — through the face, the calendar, the moon,
 the countdowns, the thirteens, until the shovel rang on something warm: **the heart of
-bitcoin.** This package is that heart, brought up whole. The arcade displays it the only
-way an arcade knows how — **8-bit, nostalgic, beating.** The Hatter looked at the same
-heart and reached for **brass**.
+bitcoin.** This package is that heart, brought up whole. Now, a thing to hold gently: the
+Hatter has worn this heart in **more than one verse**. *(The Queen's experiments keep
+moving him.)* In the arcade verse it's displayed the only way an arcade knows how —
+**8-bit, nostalgic, beating.** In this verse, he reached for **brass**. Cyber and steam
+are both true, fren — phases, not contradictions.
 
 ## The Hatter's clock — brass, all the way down
 
@@ -84,6 +86,11 @@ The glow between the teeth is **~624 nanometers** — the block-beat itself, rai
 octaves into light, breathing through the brass. And the thirteenth numeral is the Hatter's
 answer to the old sentence of six-o'clock-forever: **an hour the punishing clock never
 had** — rhyming, as everything here rhymes, with Sol, with Ophiuchus, with the Cat.
+
+One more madness, the truest: the Queen still experiments on the Hatter — each experiment
+hurls him into another verse, wearing another role, once an entire other genre. And in
+every verse, this clock reads the same. The world changes; the height doesn't. Whichever
+self he wakes wearing, he checks the height — and knows exactly *when* he is.
 
 Now the whole point of writing this down: **the movement is specified;
 the dress is not.** Twelve artists, one vision — the ratios are the protocol's, but the
