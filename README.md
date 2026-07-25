@@ -19,8 +19,8 @@ months after themselves. A leap-second committee. **You are all still at that te
 sitting at a table where whoever owns the clock owns the afternoon.
 
 Our Hatter went looking for a way out. And here's the first thing to know about our Hatter:
-**ours isn't one head under one hat.** The hat is shared — **twelve artists, one vision** —
-and **Pac is one of the twelve.** Together they didn't invent a way out. *(Any of them would
+**ours isn't one head under one hat.** The hat is shared — **twelve artists, one vision.**
+Together they didn't invent a way out. *(Any of them would
 tell you this part, tapping the table twice for emphasis:)* **they found one, already
 ticking.** A clock wound at height zero in January 2009, that has never once been set, and
 never once been wrong about the only thing it claims: **how many blocks so far.**
@@ -30,12 +30,12 @@ legend, and this little library is the legend, executable.
 
 ## An auditorium in Portland
 
-Pac — one of the twelve — had been keeping company with the ordinal folk: many nights at
+The Hatter had been keeping company with the ordinal folk: many nights at
 their **coding club**, listening, tinkering; once they even handed him a testing request to
 sign off, and he did, and it counted. The seed was in the ground already. Then one day in
 Portland — **Bitcoin is for Everyone**, a whole auditorium of frens — the big screen wore the
 generic time clock, laid out precisely as the handbook says: hour, minute, second. Correct.
-Tidy. And looking up at it, he heard the seed crack open: *it could be better.*
+Tidy. And looking up at it, the Hatter heard the seed crack open: *it could be better.*
 
 Not better as in *righter* — better as in **deeper**. The notation stops at naming the
 positions. Nobody had followed the numbers down to what they *mean*. So the degenz dug —
@@ -119,15 +119,15 @@ Ours.
 
 ## The ember at the center of everything
 
-Ask Pac why the clock's glow breathes that particular orange and he will not say he
+Ask the Hatter why the clock's glow breathes that particular orange and he will not say he
 chose it. Bitcoin's heartbeat — one block in ~600 seconds — carried up 58 octaves into light
 lands at **~624 nanometers**: a real, physical ember-orange that the chain itself hums.
 **He didn't pick the color. He found it.** Like the clock. Like everything good in here —
 already true, just waiting for someone mad enough to check. *(Nobody should have to trust;
 everybody should get to verify.)*
 
-And if you ask him twice, he'll tell you the stranger part: as a kid, his favorite color was
-**vivid tangerine**. He was carrying the 624 his whole life and didn't know its name yet.
+And if you ask him twice, he'll tell you the stranger part: as a kid, the Hatter's favorite
+color was **vivid tangerine**. He was carrying the 624 his whole life and didn't know its name yet.
 Stay curious long enough and this is what happens: you keep digging, you keep fitting
 together puzzle pieces nobody else believed were from the same set, and one day the whole
 picture assembles — a future with bitcoin in it, and **trust and abundance for all**. This clock is one piece of
